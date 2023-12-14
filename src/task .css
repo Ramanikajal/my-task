@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 20px;
+    background-color: cadetblue;
+    align-items: center;
+}
+.Task_heding{
+    font-size: 25px;
+    color: fff;
+}
+.task_titel{
+    margin-bottom: 5px;
+}
+.btn{
+    height: 50px;
+    width: 120px;
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
